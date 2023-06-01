@@ -1,0 +1,36 @@
+body{
+    height:100vh;
+    width:100vw;
+    font-family: 'Inter', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    width:55px;
+    background-color:black;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 0;
+    padding: 10px;
+    border:2px solid black;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+p{
+    color:red;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 40px;
+}

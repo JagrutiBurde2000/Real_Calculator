@@ -1,0 +1,24 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin:auto
+}
+.container1{
+ width:280px;
+ border-radius: 10px;
+ background-color: coral;
+ display: flex;
+ flex-direction:column ;
+ justify-content: center;
+ align-items: center;
+}
+
+.rootcontainer{
+  
+  display: flex;
+flex-direction:column ;
+justify-content: center;
+align-items: center;
+}
